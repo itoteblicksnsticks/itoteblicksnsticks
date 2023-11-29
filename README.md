@@ -1,5 +1,3 @@
-**Developer @ discord.gg/kittenassist**
-
 ## **Full Stack Developer | Age: 15**
 
 ### **Languages**
