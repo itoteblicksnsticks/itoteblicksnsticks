@@ -3,7 +3,7 @@
 - I'm interested in many different fields of programming
 
 ## Currently working on:
-- Getting better at DSA
+- Getting better at DSA & OOP
 - Improving my techniques in Lua devirtualization
 - Learning more Go & Javascript 
 
