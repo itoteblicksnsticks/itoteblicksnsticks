@@ -6,6 +6,7 @@
 - Getting better at DSA & OOP
 - Improving my techniques in Lua devirtualization
 - Learning more Go & Javascript 
+- Beginning to learn C to broaden understanding of low-level programming and system design
 
 ## Skills:
 - Intermediate level programmer ;)
