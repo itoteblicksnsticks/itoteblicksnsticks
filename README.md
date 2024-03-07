@@ -6,7 +6,7 @@
 - Getting better at DSA & OOP
 - Improving my techniques in Lua devirtualization
 - Learning x86 assembly
-- Improving my knowledge of the Cpp language
+- Improving my knowledge of the C++ language
 
 ## Skills:
 - Intermediate level programmer ;)
