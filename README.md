@@ -5,8 +5,8 @@
 ## Currently working on:
 - Getting better at DSA & OOP
 - Improving my techniques in Lua devirtualization
-- Learning more Go & Javascript 
-- Beginning to learn C++ to add more to my programming skills
+- Learning x86 assembly
+- Improving my knowledge of the Cpp language
 
 ## Skills:
 - Intermediate level programmer ;)
