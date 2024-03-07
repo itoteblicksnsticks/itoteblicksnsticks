@@ -7,7 +7,7 @@
 - Improving my techniques in Lua devirtualization
 - Learning more Go & Javascript 
 - Starting to learn C to get a good grip on the basics of programming and how computers work
-- Beginning to learn Rust to add more to my programming skills
+- Beginning to learn C++ to add more to my programming skills
 
 ## Skills:
 - Intermediate level programmer ;)
