@@ -7,6 +7,7 @@
 - Improving my techniques in Lua devirtualization
 - Learning x86 assembly
 - Improving my knowledge of the C++ language
+- Beginner in C & C++
 
 ## Skills:
 - Intermediate level programmer ;)
